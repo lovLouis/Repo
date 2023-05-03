@@ -1,1 +1,2 @@
-echo "the password to bandit23 is: XXXXX"
+#!/bin/bash
+echo "the password to bandit23 is: 8ca319486bfbbc3663ea0fbe81326349"
